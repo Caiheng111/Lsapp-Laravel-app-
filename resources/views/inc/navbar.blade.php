@@ -19,7 +19,11 @@
       <li class="nav-item">
         <a class="nav-link" href="/posts">Blogs</a>
       </li>
-  
+      <li class="nav-item">
+        <a  class="nav-link" href="/posts/create">create post</a>
+      </li>
     </ul>
+
+  
   </div>
 </nav>
